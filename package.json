@@ -1,6 +1,6 @@
 {
   "name": "barebones-testnpm-package",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "For testing purposes only.",
   "main": "index.js",
   "scripts": {
