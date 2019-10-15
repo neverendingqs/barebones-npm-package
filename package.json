@@ -1,19 +1,20 @@
 {
-  "name": "barebones-npm-package",
+  "name": "barebones-testnpm-package",
   "version": "0.0.1",
   "description": "For testing purposes only.",
   "main": "index.js",
   "scripts": {
+    "deploy": "publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neverendingqs/barebones-npm-package.git"
+    "url": "git+https://github.com/neverendingqs/barebones-test-npm-package.git"
   },
   "author": "neverendingqs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/neverendingqs/barebones-npm-package/issues"
+    "url": "https://github.com/neverendingqs/barebones-test-npm-package/issues"
   },
-  "homepage": "https://github.com/neverendingqs/barebones-npm-package#readme"
+  "homepage": "https://github.com/neverendingqs/barebones-test-npm-package#readme"
 }
